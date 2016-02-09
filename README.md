@@ -1,3 +1,10 @@
+#References for GitHub
+https://guides.github.com/activities/hello-world/
+[GitHub Guide](https://guides.github.com/activities/hello-world/)
+
+# Reference for Markdown
+https://guides.github.com/features/mastering-markdown/ 
+
 # hello-world
 Test repo
 
